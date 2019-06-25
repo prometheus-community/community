@@ -8,7 +8,7 @@ All meetings are archived on the [Youtube Channel](https://www.youtube.com/chann
 
 Quick links:
 
-- [Agenda document](https://bit.ly/2Xx0TpA)
+- [Agenda document](https://bit.ly/prometheus-community-agenda)
 - [9 AM UTC Zoom meeting link](https://zoom.us/j/639056489)
 - [5 PM UTC Zoom meeting link](https://zoom.us/j/906107777)
 
@@ -20,7 +20,7 @@ It also provides a forum for discussion of project-level concerns that might nee
 ## Meeting Agenda
 
 If you have a topic you'd like to present or would like to see discussed,
-please propose a specific date on the [Prometheus & The Ecosystem Community Meeting Agenda](https://bit.ly/2Xx0TpA).
+please propose a specific date on the [Prometheus & The Ecosystem Community Meeting Agenda](https://bit.ly/prometheus-community-agenda).
 
 General speaking the meeting is structured as follows:
 
