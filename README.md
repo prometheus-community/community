@@ -31,9 +31,9 @@ General speaking the meeting is structured as follows:
 
 ## Updates & Announcements
 
-The first 10 minutes of a meeting is dedicated to Prometheus Updates & Announcements. Next 10 minutes are dedicated to Ecosystem Updates & Announcements. These announcements are noted at the top of the community document. There is a hard stop of the announcements at 10 minutes, with up to 5 more minutes for questions.
+The first 10 minutes of a meeting are dedicated to Prometheus Updates & Announcements. The next 10 minutes are dedicated to Ecosystem Updates & Announcements. These announcements are noted at the top of the community document. There is a hard stop of the announcements at 10 minutes, with up to 5 more minutes for questions.
 
-If you want to announce something during time allocated for Prometheus announcements or the Ecosystem announcements, then contact organizers, they will get back to you.
+If you want to announce something during the time allocated for announcements, contact the organizers. They will get back to you.
 
 Announcements submissions MUST follow the requirements listed below. 
 
@@ -44,10 +44,10 @@ Out of respect for their time, we ask that you be fully prepared for your announ
 
 - Your announcement should provide clear, valuable information to the community without being commercial in nature. Typical sales pitches are not permitted, and could potentially alienate your audience. 
 - You are required to show up 10 minutes before the meeting to verify your audio and screensharing capabilities with the hosts. If you cannot make and keep this commitment, you will not be allowed to proceed with your announcement until such time you can.
-- You also required to commit to being available the week before your announcement date in case there is an issue with that week's annoucement.
+- You also required to commit to being available the week before your announcement date in case there is an issue with that week's announcement.
 - The use of a headset or other high-quality audio equipment is strongly encouraged. Typing on a laptop while using the system microphone is distracting, so please insulate your microphone from key noises.
 - Ensure you are presenting from a quiet environment.
-- If you run out of time while performing your annoucement, you may ask the audience if they would like a follow-up at a subsequent meeting. If there is enthusiastic support, the community team will help schedule a continuation.
+- If you run out of time while performing your announcement, you may ask the audience if they would like a follow-up at a subsequent meeting. If there is enthusiastic support, the community team will help schedule a continuation.
 
 ## Archives
 
