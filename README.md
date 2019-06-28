@@ -19,7 +19,7 @@ It also provides a forum for discussion of project-level concerns that might nee
 
 ## Code Of Conduct
 
-The meeting follows [Prometheus Code of Conduct](https://github.com/prometheus/prometheus/blob/master/code-of-conduct.md). If you notice a violation of the Code of Conduct, reach out to Mishi Choudhary at mishi@linux.com.
+The meeting follows the [Prometheus Code of Conduct](https://github.com/prometheus/prometheus/blob/master/code-of-conduct.md). If you notice a violation of the Code of Conduct, reach out to Mishi Choudhary at [mishi@linux.com])(mailto:mishi@linux.com).
 
 ## Meeting Agenda
 
