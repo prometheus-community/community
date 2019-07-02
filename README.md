@@ -17,6 +17,10 @@ Quick links:
 The Prometheus & The Ecosystem community meeting is intended to provide a holistic overview of community activities, critical release information, and governance updates. 
 It also provides a forum for discussion of project-level concerns that might need a wider audience.
 
+## Code Of Conduct
+
+The meeting follows the [Prometheus Code of Conduct](https://github.com/prometheus/prometheus/blob/master/code-of-conduct.md). If you notice a violation of the Code of Conduct, reach out to Mishi Choudhary at [mishi@linux.com](mailto:mishi@linux.com).
+
 ## Meeting Agenda
 
 If you have a topic you'd like to present or would like to see discussed,
