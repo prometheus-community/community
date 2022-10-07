@@ -21,6 +21,7 @@ To propose adding a new repository to the prometheus-community organization, [op
     * If you do not have owner rights on the original repository:
         1. Ask the owner of the existing repository to initiate the transfer into the prometheus-community organization.
         1. Accept the transfer.
+1. Add a `MAINTAINERS.md` listing the active maintainers, and yourself as the sponsor.
 1. Subscribe to notifications for the repository.
 
 ### Creating a new repository
@@ -29,4 +30,5 @@ To propose adding a new repository to the prometheus-community organization, [op
 1. Create a [team](https://github.com/orgs/prometheus-community/teams) and add the maintainers for the new repository, unless there is already an appropriate team.
 1. Create the repository.
 1. In the repository Settings -> Collaborators and Teams, add the team that should manage the repository, as Admin.
+1. Add a `MAINTAINERS.md` listing the active maintainers, and yourself as the sponsor.
 1. Subscribe to notifications for the repository.
